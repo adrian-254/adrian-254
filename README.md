@@ -20,7 +20,7 @@
 </p>  
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrian-254_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrian-254&layout_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-254&layout=compact&theme=radical)  
 
 ## 📫 Connect with Me  

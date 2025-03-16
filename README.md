@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **JavaScript projects & web development**  
 - 🌱 I’m learning: **Deep JavaScript & its frameworks, API calling, advanced web development & pushing for IoT soon**  
 - 💡 I love building: **Productivity tools & interactive web experiences**  
-- 🎯 My goal: **Become a top-level software engineer and build groundbreaking software**  
+- 🎯 My goal: **Become a top-level software engineer and build groundbreaking software that solve real-world problems**  
 - 🎧 Fun fact: **I listen to audiobooks like *The Laws of Human Nature***  
 
 ## 🛠️ Tech Stack  

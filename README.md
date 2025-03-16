@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm ADRIAN  
 
-🚀 **Aspiring JavaScript Nerd | Web Developer | IoT Enthusiast | Future Tech Pioneer**  
+🚀 **A JavaScript Nerd | Web Developer | IoT Enthusiast | Future Tech Pioneer**  
 
 ## 🌟 About Me  
 - 🔭 I’m currently working on: **JavaScript projects & web development**  

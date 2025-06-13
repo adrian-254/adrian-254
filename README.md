@@ -3,11 +3,11 @@
 🚀 **A JavaScript Nerd | Web Developer | IoT Enthusiast | Future Tech Pioneer**  
 
 ## 🌟 About Me  
-- 🔭 I’m currently working on: **JavaScript projects & web development**  
-- 🌱 I’m learning: **Deep JavaScript & its frameworks, API calling, advanced web development & pushing for IoT soon**  
+- 🔭 I’m currently working on: **JavaScript, React + AI & LLMs**  
+- 🌱 I’m learning: **Deep JavaScript & its frameworks, API calling, AI, advanced web development & IoT**  
 - 💡 I love building: **Productivity tools & interactive web experiences**  
-- 🎯 My goal: **Become a top-level software engineer and build groundbreaking software that solve real-world problems**  
-- 🎧 Fun fact: **I listen to audiobooks like *The Laws of Human Nature***  
+- 🎯 My goal: **Be better everyday**  
+- 🎧 Fun fact: **I listen to audiobooks like *The Laws of Human Nature* while sipping Coffee**  
 
 ## 🛠️ Tech Stack  
 ### **Languages & Technologies**  
@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50" />
 </p>  
 
 ## 📈 GitHub Stats  

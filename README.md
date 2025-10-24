@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm ADRIAN  
+# 👋 ADRIAN  
 
 🚀 **A JavaScript Nerd | Web Developer | IoT Enthusiast | Tech Pioneer**  
 
 ## 🌟 About Me  
 - 🔭 I’m currently working on: **JavaScript, React and DifferentialEquation.jl**  
-- 🌱 I’m learning: **Deep JavaScript, Julia, API calling, and IoT**  
-- 💡 Hands on : **Productivity tools & Julia computing and its libraries**  
+- 🌱  **Deep JavaScript, Julia, API calling, and IoT**  
+- 💡 Hands on : **Productivity tools & Julia computing**  
 - 🎯 My goal: **Be better everyday**  
 - 🎧 Fun fact: **Listening to audiobooks while sipping Coffee**  
 
